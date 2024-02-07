@@ -1,0 +1,17 @@
+body{
+    background-color: ;
+}
+.bg-teal{
+    background-color: seagreen;
+}
+.text-teal{
+    color: teal;
+}
+
+.container-fluid .navbar-brand{
+    color:white;
+}
+
+ #navbarNavDropdown .navbar-nav .nav-item .nav-link {
+    color: white;
+}
